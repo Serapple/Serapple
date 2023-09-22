@@ -1,15 +1,17 @@
-<div align="center">
-<div align ="left">
+
 ### 🐥 Profile
 안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하는 박세린입니다.
 <p><a href="https://serapple.notion.site"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
-</div>
-<div align ="right">
+  
 ### 📞 Contact
 Email : parkserin_@naver.com
-</div>
-</div>
+
+
 ### 🦾 Skills
+
+<div align ="left">
+</div>
+  
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -21,7 +23,10 @@ Email : parkserin_@naver.com
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+</div>
 
+<div align ="right">
+  
 **🛠️ Infra and Tools**
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
@@ -35,6 +40,7 @@ Email : parkserin_@naver.com
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+</div>
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serapple&layout=compact)
