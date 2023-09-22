@@ -1,11 +1,5 @@
-### Hi there 👋
-완벽하지 않더라도 끊임없이 도전할 줄 아는 개발자 **박세린**입니다.
+### 안녕하세요 안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하는 박세린입니다.
 
-안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하고 있습니다.
-
-새로운 지식을 배우는 것을 즐기며, 배운 것을 바로 적용하고, 문제를 해결하는 것에 재미를 느끼고, 그 과정들을 기록하는 것을 좋아합니다. 
-
-공부하고, 해결하고, 기록하며 꾸준히 성장하는 개발자가 되겠습니다.
 
 <!--
 **Serapple/Serapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
