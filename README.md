@@ -1,4 +1,4 @@
-### Profile
+### 🐥 Profile
 안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하는 박세린입니다.
 
 ### 🦾 Skills
@@ -31,6 +31,8 @@
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serapple&layout=compact)
 
+### 📞 Contact
+Email : parkserin_@naver.com
 <!--
 **Serapple/Serapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
