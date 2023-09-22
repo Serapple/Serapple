@@ -1,12 +1,13 @@
+<div align="center">
 <div align ="left">
 ### 🐥 Profile
 안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하는 박세린입니다.
-
 <p><a href="https://serapple.notion.site"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
 </div>
 <div align ="right">
 ### 📞 Contact
 Email : parkserin_@naver.com
+</div>
 </div>
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
