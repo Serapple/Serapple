@@ -1,8 +1,13 @@
+<div align ="left">
 ### 🐥 Profile
 안정적으로 서버를 운영할 수 있는 **Backend 개발자**가 되기 위해 노력하는 박세린입니다.
 
 <p><a href="https://serapple.notion.site"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
-
+</div>
+<div align ="right">
+### 📞 Contact
+Email : parkserin_@naver.com
+</div>
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -33,8 +38,7 @@
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serapple&layout=compact)
 
-### 📞 Contact
-Email : parkserin_@naver.com
+
 <!--
 **Serapple/Serapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
